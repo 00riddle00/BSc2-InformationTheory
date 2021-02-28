@@ -1,0 +1,122 @@
+
+Input file size 1.0000MB
+
+# ===================================================
+# Results: text.txt
+# ===================================================
+
+k=2
+--encoding--
+
+Compressed file size 1.011538 MB
+
+Execution time: 17.068403959274292 seconds
+
+--decoding--
+
+Execution time: 14.105933666229248 seconds
+
+
+k=3
+--encoding--
+
+Compressed file size 1.012206 MB
+
+Execution time: 14.785224676132202 seconds
+
+--decoding--
+
+Execution time: 13.70535135269165 seconds
+
+
+k=4
+--encoding--
+
+Compressed file size 848.079 KB
+
+Execution time: 13.874368906021118 seconds
+
+--decoding--
+
+Execution time: 11.397001266479492 seconds
+
+
+k=8
+--encoding--
+
+Compressed file size 550.144 KB
+
+Execution time: 11.97415280342102 seconds
+
+--decoding--
+
+Execution time: 7.575588226318359 seconds
+
+
+k=12
+--encoding--
+
+Compressed file size 622.325 KB
+
+Execution time: 13.595079183578491 seconds
+
+--decoding--
+
+Execution time: 7.349735736846924 seconds
+
+
+k=16
+--encoding--
+
+Compressed file size 481.556 KB
+
+Execution time: 11.092242956161499 seconds
+
+--decoding--
+
+Execution time: 6.666245460510254 seconds
+
+
+k=20
+--encoding--
+
+Compressed file size 514.218 KB
+
+Execution time: 11.084335803985596 seconds
+
+--decoding--
+
+Execution time: 6.39336085319519 seconds
+
+
+k=24
+--encoding--
+
+Compressed file size 418.201 KB
+
+Execution time: 13.115675449371338 seconds
+
+--decoding--
+
+Execution time: 5.749169111251831 seconds
+
+
+k=30
+--encoding--
+
+Compressed file size 550.394 KB
+
+Execution time: 102.68387293815613 seconds
+
+--decoding--
+
+Execution time: 5.904223442077637 seconds
+
+
+k=31
+[encoding crashes (silently?)]
+
+
+k=32
+[MemoryError raised in Python]
+
