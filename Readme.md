@@ -26,6 +26,6 @@ diff -s           assets/"$TESTFILE"                   results/fano/decoded."$TE
 # in Results/ folder during tests are ignored by git (see .gitignore)
 ```
 
-### Run tests for Adaotuve Huffman coding
+### Run tests for Adaptive Huffman coding
 
 (not yet accomplished)
